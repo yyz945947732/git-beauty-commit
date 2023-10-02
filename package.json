@@ -18,6 +18,13 @@
   "files": [
     "dist"
   ],
+  "keywords": [
+    "git-commit",
+    "git-commit-massage",
+    "git-emoji-commit",
+    "git-emoji",
+    "git"
+  ],
   "bugs": {
     "url": "https://github.com/yyz945947732/git-beauty-commit/issues",
     "email": "945947732@qq.com"
