@@ -1,6 +1,6 @@
 {
   "name": "git-beauty-commit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "turn git commit massage into a more beautiful massage",
   "homepage": "https://github.com/yyz945947732/git-beauty-commit",
   "main": "dist/index.cjs",
