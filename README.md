@@ -63,7 +63,7 @@ function(msg: string): string;
 | 🚀     | chore    | Other changes that don't modify src or test files                                                           |
 | 🗑     | revert   | Reverts a previous commit                                                                                   |
 | 🤞     | try      | Add untested to production                                                                                  |
-| 🎉     | init      | Add untested to production                                                                                  |
+| 🎉     | init     | Project init                                                                                                |
 
 ## LICENSE
 
