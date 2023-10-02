@@ -65,6 +65,10 @@ function(msg: string): string;
 | 🤞     | try      | Add untested to production                                                                                  |
 | 🎉     | init     | Project init                                                                                                |
 
+## Related
+
+- [git-beauty-commit-cli](https://github.com/yyz945947732/git-beauty-commit-cli) - CLI for this module
+
 ## LICENSE
 
 [MIT](https://github.com/yyz945947732/git-beauty-commit/blob/master/LICENSE)
